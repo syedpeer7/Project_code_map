@@ -1,0 +1,8 @@
+opencv-python>=4.7.0
+flask>=2.2.5
+numpy>=1.24.0
+pandas>=2.0.0
+# recommended face backend:
+insightface>=0.8.0   # optional but recommended (fast & accurate)
+# fallback (optional):
+face_recognition>=1.3.0  # depends on dlib, heavy to install on Windows

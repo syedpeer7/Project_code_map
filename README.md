@@ -1,4 +1,4 @@
-# Project Code Map
+# Project 
 
 ## Overview
 
@@ -25,32 +25,11 @@ The Project Code Map is designed to provide a comprehensive overview and documen
    ```
 3. Install dependencies:
    ```bash
-   # Installation commands
+   pip install -r requirements.txt
    ```
 
-## Usage
 
-Provide instructions on how to use the project, including command examples:
-
-```bash
-# Example command
-```  
-
-## Contributing
-
-- Step 1: Fork the repository
-- Step 2: Create a new branch
-- Step 3: Make your changes
-- Step 4: Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Recognition of contributors or inspiration for the project.
-
-## Contact
-
-For questions or feedback, please reach out at syedpeer7@example.com.
